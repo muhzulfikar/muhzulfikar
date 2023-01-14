@@ -38,13 +38,12 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Unity 3D Engine-black"> and <img src="https://img.shields.io/badge/Blender 3D-orange">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:mzul8480@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mailto:mzul8480@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-<details>
-<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+#### MY GITHUB STATS
 <p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=muhzulfikar&theme=jolly&show_icons=true" alt="muhzulfikar's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=muhzulfikar&&theme=jolly&show_icons=true" alt="muhzulfikar"/>
+    <img height="160em" src="https://github-readme-stats-ten-theta.vercel.app/api?username=muhzulfikar&theme=jolly&show_icons=true" alt="muhzulfikar's Github readme stats">
+    <img height="160em" src="https://github-readme-stats-ten-theta.vercel.app/api/top-langs/?username=DenverCoder1&theme=jolly&show_icons=true" alt="muhzulfikar"/>
+    <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=muhzulfikar&&theme=jolly&show_icons=true" alt="muhzulfikar"/>
 </p>
-</details>
 
 
 <div align="center">
