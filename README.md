@@ -41,7 +41,7 @@
 #### MY GITHUB STATS
 <p align="center">
     <img height="160em" src="https://github-readme-stats-ten-theta.vercel.app/api?username=muhzulfikar&theme=jolly&show_icons=true" alt="muhzulfikar's Github readme stats">
-    <img height="160em" src="https://github-readme-stats-ten-theta.vercel.app/api/top-langs/?username=DenverCoder1&theme=jolly&show_icons=true" alt="muhzulfikar"/>
+    <img height="160em" src="https://github-readme-stats-ten-theta.vercel.app/api/top-langs/?username=muhzulfikar&theme=jolly&show_icons=true" alt="muhzulfikar"/>
     <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=muhzulfikar&&theme=jolly&show_icons=true" alt="muhzulfikar"/>
 </p>
 
